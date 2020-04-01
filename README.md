@@ -1,4 +1,6 @@
 # Minecraft Server Manager
-Voici Minecraft Server Manager ! La seule chose que vous devez faire, c'est activer RCON et QUERY dans le fichier server.properties
+Here is Minecraft Server Manager ! The only thing you need to do, it's activating RCON and QUERY in the server.properties file.
 
-Vous pourez ensuite profiter d'informations sur le serveur (nom, version, port...), de la liste des joueurs en ligne, et vous pourrez voir les logs du serveur ainsi qu'executer des commandes !
+You will then be able to see informations about the server (name, version, port...), the online players list, and you will be able to see the server's logs as well as executing commands !
+
+This project is currently in french because it is my native language. I will translate it in English later...
